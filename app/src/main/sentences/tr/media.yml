@@ -1,15 +1,14 @@
 play:
-  - (şarkı<yı|ya?>|medya<yı|ya?>|parça<yı|ya?>|müzik<yı|ya?>|ses<yı|ya?>|video<yı|ya?>|dizi<yı|ya?>|yayın<yı|ya?>|film<yı|ya?>) <yı|ya>? oynat|devam et|duraklatmayı kaldır|başla|(yeniden başla)
-  - oynatıcı<yı?> aç
-  - continue playing (the? şarkı|medya|parça|müzik|ses|video|dizi|yayın|film)?
+  - (şarkı<yı|ya?>|medya<yı|ya?>|parça<yı|ya?>|müzi<k|ği|ğe?>|ses<i|e?>|video<yu|ya?>|dizi<yi|ye?>|yayın<ı|a?>|film<i|e?>) oynat|devam et|duraklatmayı kaldır|başla|(yeniden başla)
+  - oynatıcı<ya|yı?> aç|başlat|(devam ettir)|başla
 
 pause:
-  - (şarkı<yı|ya?>|medya<yı|ya?>|parça<yı|ya?>|müzik<yı|ya?>|ses<yı|ya?>|video<yı|ya?>|dizi<yı|ya?>|yayın<yı|ya?>|film<yı|ya?>) <yı|ya>? durdur|beklet|kapat|(beklemeye|bekletmeye|beklet (koy|bırak)?)
+  - (şarkı<yı|ya?>|medya<yı|ya?>|parça<yı|ya?>|müzi<k|ği|ğe?>|ses<i|e?>|video<yu|ya?>|dizi<yi|ye?>|yayın<ı|a?>|film<i|e?>) durdur|beklet|kapat|(beklemeye|bekletmeye|beklet (koy|bırak)?)
 
 previous:
   - (bir? önceki)|son|(bir? gerideki) (şarkı<yı|ya?>|medya<yı|ya?>|parça<yı|ya?>|müzik<yı|ya?>|ses<yı|ya?>|video<yı|ya?>|dizi<yı|ya?>|yayın<yı|ya?>|film<yı|ya?>)<yı|ya>? yeniden oynat|oynat|(geri|değiş|dön|geri sar|(geri<ye?> git))?
   - geri sar
 
 next:
-  - (bir? sonraki)|(bir? ilerideki|sıradaki) (şarkı<yı|ya?>|medya<yı|ya?>|parça<yı|ya?>|müzik<yı|ya?>|ses<yı|ya?>|video<yı|ya?>|dizi<yı|ya?>|yayın<yı|ya?>|film<yı|ya?>) <yı|ya>? geç|oynat|git|değiş|geç|zıpla|(ileri sar)
+  - (bir? sonraki)|(bir? ilerideki|sıradaki) (şarkı<yı|ya?>|medya<yı|ya?>|parça<yı|ya?>|müzi<k|ği|ğe?>|ses<i|e?>|video<yu|ya?>|dizi<yi|ye?>|yayın<ı|a?>|film<i|e?>) geç|oynat|git|değiş|geç|zıpla|(ileri sar)
   - ileri sar
