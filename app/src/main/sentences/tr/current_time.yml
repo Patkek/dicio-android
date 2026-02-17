@@ -1,2 +1,2 @@
 query:
-  - saat ne|(kaç|şu an|şimdi) saat?|(saat kaç?)
+  - (saat ne|kaç?)|((şu an)|şimdi saat?)|(kaç saat)

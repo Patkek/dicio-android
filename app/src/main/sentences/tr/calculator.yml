@@ -1,2 +1,3 @@
 calculate:
-  - hesapla|değerlendir|(nedir)|(ne)|(sonucunu bul?)|(değerini bul?) .calculation.
+  - hesapla|değerlendir|(değeri nedir)|(nedir)|(ne)|(sonucunu bul?)|(değerini bul?)|(kaç eder) .calculation.
+  - .calculation. i|nin|ü hesapla|değerlendir|(değeri nedir)|(nedir)|(ne)|(sonucunu bul?)|(değerini bul?)|(kaç eder)

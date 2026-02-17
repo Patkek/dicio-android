@@ -1,4 +1,5 @@
 command:
-  - (söyle)|(bir (şaka|espri) yap|söyle|hiç? güzel|komik? (bir|bi|1)? şaka<n?>|espri<n?> (var mı|biliyor musun)|(var mıdır)
-  - (güzel|komik? (bir|bi|1)? şaka<n?>|espri<n?> ile|yla|vasıtasıyla?)? (güldür beni)|(eğlendir beni)|(neşelendir beni)
+  - söyle güzel|komik? bir|bi? şaka<n?>|espri<n?> yap|söyle|hiç? güzel|komik?
+  - bir|bi? şaka<n?>|espri<n?> yap|söyle|hiç? güzel|komik? (biliyor musun)|(var mı|mıdır)
+  - (güzel|komik? bir|bi? şaka<n?>|espri<n?> ile|yla|vasıtasıyla?)? güldür|eğlendir|neşelendir beni
   - herhangi? bir? komik|eğlenceli bir şey söyle
